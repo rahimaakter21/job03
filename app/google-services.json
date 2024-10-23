@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878881032137",
+    "project_id": "fcm-app-34067",
+    "storage_bucket": "fcm-app-34067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878881032137:android:87a3c7ba6fa18f16470a18",
+        "android_client_info": {
+          "package_name": "com.example.job03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XHWSE4NeBJnL9UrI8mQOdtZbgr2g98w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878881032137:android:5c5d7ddff3a96af3470a18",
+        "android_client_info": {
+          "package_name": "com.example.locationshareapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XHWSE4NeBJnL9UrI8mQOdtZbgr2g98w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
